@@ -12,6 +12,7 @@ namespace GitApp
         {
             string i = "hello from Money Maker";
             Console.WriteLine(i);
+            Console.Write("bug1");
             Console.ReadLine();
         }
     }
