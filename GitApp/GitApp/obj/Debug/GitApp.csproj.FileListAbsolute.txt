@@ -1,0 +1,1 @@
+C:\Git\GitFundamentals\GitApp\GitApp\bin\Debug\GitApp.exe.config
