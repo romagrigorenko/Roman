@@ -1,1 +1,6 @@
 C:\Git\GitFundamentals\GitApp\GitApp\bin\Debug\GitApp.exe.config
+C:\Git\GitFundamentals\GitApp\GitApp\bin\Debug\GitApp.exe
+C:\Git\GitFundamentals\GitApp\GitApp\bin\Debug\GitApp.pdb
+C:\Git\GitFundamentals\GitApp\GitApp\obj\Debug\GitApp.csprojResolveAssemblyReference.cache
+C:\Git\GitFundamentals\GitApp\GitApp\obj\Debug\GitApp.exe
+C:\Git\GitFundamentals\GitApp\GitApp\obj\Debug\GitApp.pdb

@@ -10,7 +10,9 @@ namespace GitApp
     {
         static void Main(string[] args)
         {
-            string i = "";
+            string i = "hello from Money Maker";
+            Console.WriteLine(i);
+            Console.ReadLine();
         }
     }
 }
